@@ -1,0 +1,11 @@
+Cunha's Cocktails – Cocktail Bar | San Leandro, CA
+
+Imported from: https://chimerical-puppy-9c4436.netlify.app
+Netlify project: chimerical-puppy-9c4436
+Published deployment: 6a86483fdd90f44702ac0122
+Published at: 2026-08-20T00:20:15.041Z
+
+Original deployed files are preserved in the recovery export.
+The main branch uses project-relative asset URLs and disables Jekyll
+processing so this static site can be served by GitHub Pages.
+Historical Netlify project snapshots are kept on named branches.
